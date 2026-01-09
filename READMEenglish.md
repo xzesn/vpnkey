@@ -1,3 +1,5 @@
+**[Русская версия](https://github.com/xzesn/vpnkey/blob/main/README.md)**
+
 **🌐 NETWORK ACCESS NODE | BY @VPNKEYF**
 
 `Current configuration for checking network availability and a stable connection.`
