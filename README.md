@@ -1,4 +1,4 @@
-<font size="20">[English version](https://github.com/xzesn/vpnkey/blob/main/READMEenglish.md)</font>
+**[English version](https://github.com/xzesn/vpnkey/blob/main/READMEenglish.md)**
 
 **🌐 NETWORK ACCESS NODE | BY @VPNKEYF**
 
