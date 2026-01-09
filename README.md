@@ -4,7 +4,7 @@
 
 **⬇️ КОНФИГ ДЛЯ ИМПОРТА:**
 
-`vless://UUID@IP:PORT?security=reality&sni=google.com&fp=chrome&pbk=KEY&sid=ID&type=grpc&serviceName=grpc#@vpnkeyf`
+`https://raw.githubusercontent.com/xzesn/vpnkey/refs/heads/main/subscription.txt`
 
 **🔗 URL ПОДПИСКИ (Subscription):**
 
