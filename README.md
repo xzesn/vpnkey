@@ -1,3 +1,5 @@
+[English versionн](https://github.com/xzesn/vpnkey/blob/main/READMEenglish.md)
+
 **🌐 NETWORK ACCESS NODE | BY @VPNKEYF**
 
 `Актуальная конфигурация для проверки сетевой доступности и стабильного соединения.`
