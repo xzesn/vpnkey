@@ -22,7 +22,7 @@
 
 `📢 Source: @vpnkeyf`
 
-`👤 Distributor: Sati>3`
+`👤 Sati>3`
 
 **⚖️ DISCLAIMER**
 
