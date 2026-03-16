@@ -26,10 +26,7 @@
 
 **⚖️ DISCLAIMER**
 
-`Information Role: This resource (@vpnkeyf) and its administrator (Sati>3) are solely distributors of settings found in the public domain or provided by third parties.
-Disclaimer: We are not software developers or server infrastructure owners. We are not responsible for the content of transmitted traffic, connection stability, or any user actions.
-Compliance with Laws: Each user is solely responsible for using these configurations in accordance with the laws of their country.
-Purpose: This publication is for informational and informational purposes only, as part of the study of network protocols.`
+`The resource is an automated aggregator of open data from the Internet and has no direct relationship with software developers or server infrastructure owners. We do not create, store, or`
 
 **⚙️ HOW TO CONNECT:**
 
